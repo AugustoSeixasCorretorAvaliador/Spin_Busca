@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.zip
+tests/browsers/
+tests/*profile*/
+tests/pasta-teste/
+tests/fixtures/
+tests/*.pdf
+tests/*.png
